@@ -1,4 +1,4 @@
-## An streamlit app that classfiies emails as spam or ham
+## A streamlit app that classfiies emails as spam or ham
 
 #### To run you need to:
 
